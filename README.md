@@ -52,7 +52,7 @@ The project is implemented using TensorFlow and involves:
 
 -To evaluate the impact of different hyperparameters on model performance, multiple configurations were tested. The table below summarizes the accuracy, AUC, mean IoU, precision, and loss achieved for each configuration, highlighting the best-performing model settings.
 
-![Hyperparameter Tuning Table](path/to/your/image.pn)
+![run](https://github.com/user-attachments/assets/9c72fbc9-2737-4975-bb5e-5de2fa9af10e)
 
 *Figure: Comparison of different optimizer, activation, and loss function configurations.*
 
