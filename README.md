@@ -3,6 +3,8 @@
 
 This project investigates the uncertainties in deep learning models, specifically the U-Net architecture, for building detection in satellite images. The focus is on both data and model uncertainties, achieved through hyperparameter tuning and analysis of model performance across noisy and non-noisy datasets. This work was conducted at the National Remote Sensing Centre (NRSC), ISRO.
 
+![image](https://github.com/user-attachments/assets/bfed289b-ba1c-40f8-a95c-f04ed1c60f8f)
+
 ## Introduction
 - All models are wrong, but models that know when they are   wrong, are useful.
 - All DLmodels comes with its own advantages and limitations.
