@@ -48,6 +48,15 @@ The project is implemented using TensorFlow and involves:
 - **Confusion Matrix Insights**: Analysis revealed a high number of False Negatives, highlighting potential areas for model improvement.
 - **Confidence Masks**: Visualizations of confidence scores provided insights into model certainty across predictions.
 
+  ## Hyperparameter Tuning Results
+
+-To evaluate the impact of different hyperparameters on model performance, multiple configurations were tested. The table below summarizes the accuracy, AUC, mean IoU, precision, and loss achieved for each configuration, highlighting the best-performing model settings.
+
+![Hyperparameter Tuning Table](path/to/your/image.pn)
+
+*Figure: Comparison of different optimizer, activation, and loss function configurations.*
+
+
 ## Conclusion
 
 The project demonstrates the importance of uncertainty quantification in enhancing model reliability. The Adam optimizer with ReLU activation and Binary Cross-Entropy loss was found to be optimal for this task. High False Negative rates suggest that further fine-tuning could improve recall.
