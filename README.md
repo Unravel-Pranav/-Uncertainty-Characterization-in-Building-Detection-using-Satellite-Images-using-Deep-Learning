@@ -1,6 +1,4 @@
 
----
-
 # Uncertainty in Deep Learning Models for Building Detection in Satellite Images
 
 This project investigates the uncertainties in deep learning models, specifically the U-Net architecture, for building detection in satellite images. The focus is on both data and model uncertainties, achieved through hyperparameter tuning and analysis of model performance across noisy and non-noisy datasets. This work was conducted at the National Remote Sensing Centre (NRSC), ISRO.
@@ -63,4 +61,3 @@ The project demonstrates the importance of uncertainty quantification in enhanci
 
 Special thanks to my mentors Miss. Reedhi Shukla and Mr. Sampath Kumar at NRSC, ISRO, and the support from NRSC staff. This work was carried out under their valuable guidance.
 
---- 
